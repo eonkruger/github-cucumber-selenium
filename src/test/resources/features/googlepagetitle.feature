@@ -1,4 +1,4 @@
-#Author: Ash, Manual 2 Automation Testing
+#Author: Eon Kruger GitHub Udemy Course
 @Search 
 Feature: PageTitle
 
